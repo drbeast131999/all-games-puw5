@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/all-games-puw5/sitemap.xml
